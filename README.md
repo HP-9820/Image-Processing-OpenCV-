@@ -48,25 +48,6 @@ This repository contains a collection of experiments and implementations using O
    pip install -r requirements.txt
    ```
 
-## Usage
-- Run the individual scripts in the `src` directory for specific image processing tasks.
-- Example:
-  ```bash
-  python src/image_enhancement.py
-  ```
-
-## Examples
-- Filters and sharpening: `examples/filter_demo.py`
-- Noise simulation: `examples/noise_simulation.py`
-- Scale variation: `examples/scale_variation.py`
-
-## Contributions
-Contributions are welcome! Please feel free to submit a pull request or open an issue for feedback and suggestions.
-
-## License
-This project is licensed under the MIT License.
-
----
 
 Explore the fascinating world of image processing and share your thoughts!
 
